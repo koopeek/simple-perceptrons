@@ -1,0 +1,27 @@
+{
+  "name": "simple-perceptrons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "http-server -c-1",
+    "bundle": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koopeek/simple-perceptrons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koopeek/simple-perceptrons/issues"
+  },
+  "homepage": "https://github.com/koopeek/simple-perceptrons#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "install": "^0.13.0",
+    "npm": "^6.12.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  }
+}
